@@ -1,0 +1,17 @@
+1.Create a folder in the local-mkdir
+2.Navigate to that folder- cd
+3.Initialize the Git - git init
+4.Check the list of files - windows- (dir) and linux(ls)
+5.Check the status of the files- git status.
+
+**Initially all the files are in untracked so we have to stage the files**
+6. Then we have to add the files in the GIT---> in the staging environment --- git add file name.
+7.git add --all--- to stag multiple files at one go.
+8.From stag to actual git repo- we do -git commit -m
+9. To check the status in short- git status --short
+10.To skip the staging environment  we can directly do the commit git commit -a -m.
+11.Git log to view the audit history of all the commits.
+12.For reference and help git help --all.
+13.Create branch in git- git branch branchname.
+14.List all the branch in the Git Repo- git branch.
+15.To switch to the other branch- git checkout branch name.
